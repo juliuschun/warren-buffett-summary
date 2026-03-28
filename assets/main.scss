@@ -39,23 +39,47 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 1.5em 0;
+  font-size: 0.95em;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+thead {
+  position: sticky;
+  top: 0;
 }
 
 th {
   background-color: #1a1a2e;
-  color: white;
+  color: #ffffff;
   padding: 12px 16px;
   text-align: left;
   font-weight: 600;
+  border-bottom: 2px solid #c9a84c;
+  white-space: nowrap;
 }
 
 td {
   padding: 10px 16px;
   border-bottom: 1px solid #e8e8e8;
+  vertical-align: top;
+  color: #333;
+}
+
+// Year column: keep narrow
+td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+// Alternating row colors for readability
+tr:nth-child(even) td {
+  background-color: #fafafa;
 }
 
 tr:hover td {
-  background-color: #f8f9fa;
+  background-color: #f0efe8;
 }
 
 // Blockquotes (Buffett quotes)
