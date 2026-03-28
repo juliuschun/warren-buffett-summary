@@ -5,6 +5,8 @@ description: "Lessons from Berkshire's 2025 CEO Letter (Greg Abel)"
 permalink: /lessons/lessons-2025/
 ---
 
+> [Read the original 2025 letter](/warren-buffett-summary/letters/2025/)
+
 # Lessons from Berkshire's 2025 CEO Letter (Greg Abel)
 
 ## Historical Significance

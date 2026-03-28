@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2024 Shareholder Letter"
 permalink: /lessons/lessons-2024/
 ---
 
+> [Read the original 2024 letter](/warren-buffett-summary/letters/2024/)
+
 # Lessons from Buffett's 2024 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

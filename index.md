@@ -85,6 +85,23 @@ Worked examples showing how Buffett actually evaluated businesses — the winner
 
 ---
 
+## Original Shareholder Letters
+
+Read the actual letters Warren Buffett wrote. Unedited, unabridged, converted from the original PDFs on berkshirehathaway.com.
+
+**49 letters, 1977-2025** | [Browse all letters &rarr;](letters)
+
+| Decade | Highlights |
+|--------|------------|
+| [1977-1979](letters/1977) | The beginning -- textiles, insurance, and the first principles |
+| [1980-1989](letters/1980) | The moat is born -- GEICO, See's, Nebraska Furniture Mart |
+| [1990-1999](letters/1990) | Franchise economics -- Coca-Cola, Gillette, float philosophy |
+| [2000-2009](letters/2000) | Crisis & courage -- dot-com, derivatives, 2008 |
+| [2010-2019](letters/2010) | The fortress -- BNSF, Apple, financial fortitude |
+| [2020-2025](letters/2020) | The final letters -- COVID, succession, farewell |
+
+---
+
 ## About
 
 This content is extracted from the [eco-moat-ai](https://github.com/juliuschun/eco-moat-ai) project — an open-source toolkit that structures Buffett's 49 years of letters for both human readers and AI agents.

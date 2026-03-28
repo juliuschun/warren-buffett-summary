@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2022 Shareholder Letter"
 permalink: /lessons/lessons-2022/
 ---
 
+> [Read the original 2022 letter](/warren-buffett-summary/letters/2022/)
+
 # Lessons from Buffett's 2022 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

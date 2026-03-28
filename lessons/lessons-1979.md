@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 1979 Shareholder Letter"
 permalink: /lessons/lessons-1979/
 ---
 
+> [Read the original 1979 letter](/warren-buffett-summary/letters/1979/)
+
 # Lessons from Buffett's 1979 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

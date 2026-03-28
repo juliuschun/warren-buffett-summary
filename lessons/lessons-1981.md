@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 1981 Shareholder Letter"
 permalink: /lessons/lessons-1981/
 ---
 
+> [Read the original 1981 letter](/warren-buffett-summary/letters/1981/)
+
 # Lessons from Buffett's 1981 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

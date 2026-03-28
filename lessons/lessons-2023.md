@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2023 Shareholder Letter"
 permalink: /lessons/lessons-2023/
 ---
 
+> [Read the original 2023 letter](/warren-buffett-summary/letters/2023/)
+
 # Lessons from Buffett's 2023 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

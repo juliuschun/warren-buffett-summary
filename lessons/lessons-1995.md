@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 1995 Shareholder Letter"
 permalink: /lessons/lessons-1995/
 ---
 
+> [Read the original 1995 letter](/warren-buffett-summary/letters/1995/)
+
 # Lessons from Buffett's 1995 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

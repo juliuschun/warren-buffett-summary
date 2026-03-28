@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 1996 Shareholder Letter"
 permalink: /lessons/lessons-1996/
 ---
 
+> [Read the original 1996 letter](/warren-buffett-summary/letters/1996/)
+
 # Lessons from Buffett's 1996 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2000 Shareholder Letter"
 permalink: /lessons/lessons-2000/
 ---
 
+> [Read the original 2000 letter](/warren-buffett-summary/letters/2000/)
+
 # Lessons from Buffett's 2000 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

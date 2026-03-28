@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2002 Shareholder Letter"
 permalink: /lessons/lessons-2002/
 ---
 
+> [Read the original 2002 letter](/warren-buffett-summary/letters/2002/)
+
 # Lessons from Buffett's 2002 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving

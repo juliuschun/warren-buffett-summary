@@ -10,9 +10,9 @@ author:
 
 header_pages:
   - years.md
-  - themes.md
-  - case-studies.md
+  - themes-index.md
   - evidence.md
+  - letters-index.md
 
 defaults:
   - scope:
@@ -39,6 +39,12 @@ defaults:
     values:
       layout: "page"
       parent: "Case Studies"
+  - scope:
+      path: "letters"
+      type: "pages"
+    values:
+      layout: "page"
+      parent: "Original Letters"
 
 markdown: kramdown
 kramdown:

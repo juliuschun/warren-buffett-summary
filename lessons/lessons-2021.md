@@ -5,6 +5,8 @@ description: "Lessons from Buffett's 2021 Shareholder Letter"
 permalink: /lessons/lessons-2021/
 ---
 
+> [Read the original 2021 letter](/warren-buffett-summary/letters/2021/)
+
 # Lessons from Buffett's 2021 Shareholder Letter
 
 ## Business Lessons for Survival and Thriving
