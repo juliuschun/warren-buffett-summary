@@ -1,0 +1,48 @@
+title: "Warren Buffett's Lessons Explained"
+description: "Every lesson from every shareholder letter (1977-2025), organized by year, theme, and case study."
+url: "https://juliuschun.github.io"
+baseurl: "/warren-buffett-summary"
+theme: minima
+
+author:
+  name: "Moat AI"
+  url: "https://github.com/juliuschun"
+
+header_pages:
+  - years.md
+  - themes.md
+  - case-studies.md
+  - evidence.md
+
+defaults:
+  - scope:
+      path: "lessons"
+      type: "pages"
+    values:
+      layout: "page"
+      parent: "By Year"
+  - scope:
+      path: "themes"
+      type: "pages"
+    values:
+      layout: "page"
+      parent: "By Theme"
+  - scope:
+      path: "business-reference"
+      type: "pages"
+    values:
+      layout: "page"
+      parent: "Evidence Base"
+  - scope:
+      path: "case-studies"
+      type: "pages"
+    values:
+      layout: "page"
+      parent: "Case Studies"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
