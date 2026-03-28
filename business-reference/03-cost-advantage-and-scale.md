@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Cost Advantage & Scale"
+description: "Evidence base: Warren Buffett on cost advantages and scale economics. GEICO model, operational efficiency, and capital intensity with letter citations."
 permalink: /business-reference/03-cost-advantage-and-scale/
 ---
 

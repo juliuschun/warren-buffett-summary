@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Acquisition Discipline"
+description: "Warren Buffett's acquisition criteria and discipline. Why he buys wonderful companies at fair prices, avoids turnarounds, and never participates in auctions."
 permalink: /themes/09-acquisition-discipline/
 ---
 

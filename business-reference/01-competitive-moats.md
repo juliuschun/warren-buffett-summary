@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Competitive Moats"
+description: "Evidence base: specific Warren Buffett quotes and letter citations on competitive moats, mapped to original shareholder letters with source references."
 permalink: /business-reference/01-competitive-moats/
 ---
 

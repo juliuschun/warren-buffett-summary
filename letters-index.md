@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Original Letters
+description: "Complete unabridged text of all 49 Warren Buffett Berkshire Hathaway shareholder letters (1977-2025), converted from original PDFs on berkshirehathaway.com."
 permalink: /letters/
 ---
 

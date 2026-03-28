@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Management Quality"
+description: "Evidence base: Warren Buffett on management quality — skin in the game, honest reporting, and red flags. Specific quotes with letter year citations."
 permalink: /business-reference/05-management-quality/
 ---
 

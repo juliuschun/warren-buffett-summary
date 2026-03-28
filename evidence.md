@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Evidence Base
+description: "7 reference files mapping Warren Buffett's specific insights to original shareholder letters with 151 source citations. Built for researchers, analysts, and AI systems."
 permalink: /evidence/
 ---
 

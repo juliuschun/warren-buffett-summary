@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pricing Power"
+description: "Warren Buffett on pricing power and cost discipline — the hallmarks of a great business. How See's Candies, Coca-Cola, and GEICO demonstrate the capital-light ideal."
 permalink: /themes/05-pricing-power/
 ---
 

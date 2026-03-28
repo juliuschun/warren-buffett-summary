@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Institutional Imperative"
+description: "Warren Buffett's concept of the institutional imperative — how organizations resist change, imitate peers, and destroy rational decision-making. One of his most original ideas."
 permalink: /themes/13-institutional-imperative/
 ---
 

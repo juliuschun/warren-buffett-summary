@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Valuation"
+description: "Warren Buffett on intrinsic value, margin of safety, owner earnings, and the timeless math of business valuation. Practical frameworks for determining what a business is worth."
 permalink: /themes/14-valuation/
 ---
 

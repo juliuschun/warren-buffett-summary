@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Management Quality"
+description: "How Warren Buffett evaluates management quality: integrity, capital allocation skill, and owner-orientation. 49 years of insights on what separates great CEOs from average ones."
 permalink: /themes/02-management-quality/
 ---
 

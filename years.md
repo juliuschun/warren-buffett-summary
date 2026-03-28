@@ -1,6 +1,7 @@
 ---
 layout: page
 title: By Year
+description: "Browse all 1,091 lessons from Warren Buffett's 49 Berkshire Hathaway shareholder letters (1977-2025) in chronological order. Each year contains 10-25 business and investing lessons."
 permalink: /years/
 ---
 

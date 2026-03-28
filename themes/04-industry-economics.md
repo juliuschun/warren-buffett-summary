@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Industry Economics"
+description: "Warren Buffett's insights on industry structure and economics. Why the industry you're in matters more than how well you manage, with examples from textiles, insurance, newspapers, and airlines."
 permalink: /themes/04-industry-economics/
 ---
 

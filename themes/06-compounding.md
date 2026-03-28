@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Compounding"
+description: "Warren Buffett on the power of compounding: time as the friend of the wonderful business. Mathematical examples showing how patient capital allocation creates extraordinary wealth."
 permalink: /themes/06-compounding/
 ---
 

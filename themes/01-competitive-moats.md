@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Competitive Moats"
+description: "Warren Buffett's complete framework for evaluating economic moats and durable competitive advantages, traced across 49 years of shareholder letters (1977-2025). Includes moat types, durability tests, and real company examples."
 permalink: /themes/01-competitive-moats/
 ---
 

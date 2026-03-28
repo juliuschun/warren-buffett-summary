@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Capital Allocation"
+description: "Warren Buffett on capital allocation — the CEO's most important job. How to deploy retained earnings, when to buy back stock, and why ROE matters more than EPS."
 permalink: /themes/03-capital-allocation/
 ---
 

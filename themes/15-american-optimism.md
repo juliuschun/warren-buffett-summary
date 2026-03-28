@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "American Optimism"
+description: "Warren Buffett's case for long-term optimism about American business and capitalism. Why he never bets against the American economy despite short-term crises."
 permalink: /themes/15-american-optimism/
 ---
 

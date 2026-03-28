@@ -1,0 +1,60 @@
+<!-- JSON-LD Structured Data for AI discoverability -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Warren Buffett's Lessons Explained",
+  "description": "1,091 lessons from 49 Berkshire Hathaway shareholder letters (1977-2025), organized by year, theme, and case study.",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "author": {
+    "@type": "Organization",
+    "name": "Moat AI",
+    "url": "https://github.com/juliuschun/eco-moat-ai"
+  },
+  "about": [
+    { "@type": "Thing", "name": "Warren Buffett" },
+    { "@type": "Thing", "name": "Berkshire Hathaway" },
+    { "@type": "Thing", "name": "Value Investing" },
+    { "@type": "Thing", "name": "Economic Moats" },
+    { "@type": "Thing", "name": "Shareholder Letters" }
+  ],
+  "keywords": "Warren Buffett, Berkshire Hathaway, shareholder letters, value investing, economic moats, competitive advantage, capital allocation, pricing power, insurance float, GEICO, See's Candies, compounding, intrinsic value, margin of safety, owner earnings",
+  "inLanguage": "en",
+  "dateModified": "{{ site.time | date: '%Y-%m-%d' }}",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
+</script>
+
+{% if page.layout == 'page' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.description | default: site.description | escape }}",
+  "url": "{{ page.url | absolute_url }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Moat AI"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Moat AI"
+  },
+  "about": {
+    "@type": "Person",
+    "name": "Warren Buffett"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Warren Buffett's Lessons Explained",
+    "url": "{{ site.url }}{{ site.baseurl }}/"
+  },
+  "inLanguage": "en",
+  "dateModified": "{{ site.time | date: '%Y-%m-%d' }}"
+}
+</script>
+{% endif %}
+
+<!-- llms.txt discovery -->
+<link rel="alternate" type="text/plain" href="{{ site.baseurl }}/llms.txt" title="LLM-friendly site description">

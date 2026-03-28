@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "GEICO — The Perfect Cost Moat"
+description: "How Warren Buffett evaluated GEICO: the perfect cost moat case study. From 2% to 14% market share through structural cost advantage. Detailed analysis with numbers."
 permalink: /case-studies/geico-evaluation/
 ---
 

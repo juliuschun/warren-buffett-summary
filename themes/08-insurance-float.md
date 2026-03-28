@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Insurance & Float"
+description: "How Berkshire Hathaway uses insurance float as free investment capital. Warren Buffett explains the mechanics of float, underwriting discipline, and why GEICO is the crown jewel."
 permalink: /themes/08-insurance-float/
 ---
 

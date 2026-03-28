@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Meta-Lessons"
+description: "Meta-lessons from Warren Buffett: how to learn from shareholder letters, the value of writing clearly, teaching through storytelling, and principles of lifelong learning."
 permalink: /themes/16-meta-lessons/
 ---
 

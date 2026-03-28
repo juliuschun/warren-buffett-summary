@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Capital Allocation"
+description: "Evidence base: Warren Buffett's capital allocation principles with specific quotes and citations from shareholder letters. ROE, owner earnings, and the allocation decision tree."
 permalink: /business-reference/04-capital-allocation/
 ---
 

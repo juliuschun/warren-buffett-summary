@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Acquisition Discipline"
+description: "Evidence base: Warren Buffett's acquisition principles — intrinsic value, margin of safety, and turnaround traps. Specific quotes with letter citations."
 permalink: /business-reference/07-acquisition-discipline/
 ---
 

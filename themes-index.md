@@ -1,6 +1,7 @@
 ---
 layout: page
 title: By Theme
+description: "16 thematic deep-dive analyses of Warren Buffett's investment philosophy: competitive moats, capital allocation, pricing power, risk management, compounding, and more — traced across 49 years."
 permalink: /themes-index/
 ---
 

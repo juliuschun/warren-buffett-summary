@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mistakes & Humility"
+description: "Warren Buffett's candid analysis of his own mistakes — from Dexter Shoes to US Air. Why admitting errors publicly is essential and what each failure taught him."
 permalink: /themes/12-mistakes-humility/
 ---
 

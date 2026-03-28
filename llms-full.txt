@@ -1,0 +1,76 @@
+---
+layout: null
+permalink: /llms-full.txt
+---
+# Warren Buffett's Lessons Explained — Full Content Index
+
+> Complete structured knowledge base: 1,091 lessons from 49 Berkshire Hathaway shareholder letters (1977-2025).
+> For the concise version, see /llms.txt
+
+## How to Use This Resource
+
+This site is designed for both human readers and AI systems. Each lesson follows a consistent structure:
+- **Context**: What Buffett was discussing and why
+- **Lesson**: The core insight extracted
+- **Application**: How to apply this in business or investing today
+
+Every claim links back to the specific year's shareholder letter as source.
+
+## Core Concepts (Buffett's Most Important Ideas)
+
+1. **Economic Moats**: Durable competitive advantages that protect a business's earnings. Types include cost advantages (GEICO), brand/consumer monopoly (See's Candies, Coca-Cola), switching costs, network effects, and regulatory barriers.
+
+2. **Owner Earnings**: Net income + depreciation/amortization - capital expenditures required to maintain competitive position. More accurate than reported earnings for valuing businesses.
+
+3. **Circle of Competence**: Only invest in businesses you understand. The size of the circle matters less than knowing its boundaries.
+
+4. **Margin of Safety**: Buy at a price significantly below intrinsic value to protect against errors in judgment or unforeseen events.
+
+5. **Float**: Money held by insurance companies between premium collection and claim payment. If obtained at low cost, it's like free leverage for investing.
+
+6. **Institutional Imperative**: The tendency of organizations to resist change, imitate peers, and pursue activity for its own sake, regardless of rationality.
+
+7. **Capital Allocation**: The CEO's most important job. Every dollar of retained earnings should produce at least one dollar of market value.
+
+8. **Pricing Power**: The single most important indicator of business quality. If you can raise prices without losing customers, you have a great business.
+
+## Decade-by-Decade Evolution
+
+### 1977-1979: The Foundation
+Key ideas: ROE over EPS, industry tailwinds vs headwinds, insurance economics, textile business as counter-example. Buffett establishing core principles at Berkshire.
+
+### 1980-1989: The Moat Framework Emerges
+Key ideas: First use of "moat" metaphor (1986), GEICO cost advantage, See's Candies capital-light model, Coca-Cola investment, goodwill accounting, "Mr. Market" metaphor. The decade where Buffett's philosophy crystallized.
+
+### 1990-1999: Franchise Economics
+Key ideas: Franchise vs commodity business distinction, pricing power, float as free capital, intrinsic value vs book value, circle of competence, institutional critique. Peak philosophical writing.
+
+### 2000-2009: Crisis and Courage
+Key ideas: Dot-com aftermath, derivatives as "weapons of mass destruction," 2008 financial crisis response, "be greedy when others are fearful," corporate governance failures, Berkshire's financial fortress.
+
+### 2010-2019: The Fortress
+Key ideas: BNSF railroad acquisition, Precision Castparts, Apple investment, financial fortitude doctrine, American tailwind thesis, succession planning, share repurchases.
+
+### 2020-2025: The Final Letters
+Key ideas: COVID resilience, concentrated positions (Apple), cash reserves, Greg Abel succession, Buffett's farewell reflections on 60 years of capital allocation.
+
+## Frequently Asked Questions
+
+**Q: What is Warren Buffett's most important investing principle?**
+A: The concept of economic moats — buying businesses with durable competitive advantages that protect earnings over decades, not just years.
+
+**Q: What does Buffett mean by "owner earnings"?**
+A: Net income + depreciation/amortization - maintenance capital expenditures. This is the true cash a business generates for its owners, unlike reported earnings which can be distorted by accounting rules.
+
+**Q: Why does Buffett love insurance companies?**
+A: Insurance generates "float" — premiums collected before claims are paid. This float can be invested. If underwriting is profitable (or break-even), the float is essentially free capital to invest.
+
+**Q: What is the "institutional imperative"?**
+A: Buffett's term for the tendency of organizations to (1) resist any change to current direction, (2) expand to absorb available funds, (3) pursue projects to justify the CEO's desires, and (4) mindlessly imitate peers.
+
+**Q: How did Buffett evaluate See's Candies?**
+A: Purchased for $25M in 1972. See's required minimal capital reinvestment while generating growing free cash flow from pricing power. By 2007, cumulative pre-tax earnings exceeded $1.35B on the original investment — a demonstration of capital-light compounding.
+
+## Citation
+When referencing this content, cite as:
+"Warren Buffett's Lessons Explained, extracted from Berkshire Hathaway Shareholder Letters (1977-2025), via eco-moat-ai project"

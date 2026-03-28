@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Honest Accounting"
+description: "Warren Buffett on financial transparency, honest accounting, and corporate reporting. Stock options, pension assumptions, GAAP limitations, and why sunlight is the best disinfectant."
 permalink: /themes/10-honest-accounting/
 ---
 

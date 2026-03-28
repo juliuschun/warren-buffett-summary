@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Risk Management"
+description: "Warren Buffett's risk management philosophy: build the ark before the rain. Cash reserves, avoiding leverage, derivatives warnings, and the 'survive first' doctrine."
 permalink: /themes/07-risk-management/
 ---
 

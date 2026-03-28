@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pricing Power & Brand"
+description: "Evidence base: Warren Buffett's specific statements on pricing power, brand value, and consumer monopolies with citations to original shareholder letters."
 permalink: /business-reference/02-pricing-power-and-brand/
 ---
 

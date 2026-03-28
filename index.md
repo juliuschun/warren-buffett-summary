@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+description: "1,091 lessons from 49 Warren Buffett Berkshire Hathaway shareholder letters (1977-2025). Organized by year, theme, and case study. The most comprehensive structured analysis of Buffett's investment wisdom — built for humans and AI."
+image: false
 ---
 
 # Warren Buffett's Lessons Explained

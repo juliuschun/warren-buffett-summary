@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "See's Candies — Capital-Light Compounding"
+description: "Warren Buffett's See's Candies case study: $32M invested, $1.35B returned. The ultimate example of capital-light compounding through pricing power and brand loyalty."
 permalink: /case-studies/sees-candies-evaluation/
 ---
 

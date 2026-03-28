@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Risk, Leverage & Survival"
+description: "Evidence base: Warren Buffett on risk, leverage, and survival. Specific warnings about debt, derivatives, and the importance of cash reserves with source citations."
 permalink: /business-reference/06-risk-leverage-survival/
 ---
 

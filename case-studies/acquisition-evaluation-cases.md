@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Failed Acquisitions — What Went Wrong"
+description: "Warren Buffett's failed acquisitions analyzed: Dexter Shoes, US Air, and other mistakes. What went wrong, what he learned, and how each failure shaped his investment philosophy."
 permalink: /case-studies/acquisition-evaluation-cases/
 ---
 

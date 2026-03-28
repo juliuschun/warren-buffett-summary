@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Corporate Governance"
+description: "Warren Buffett on corporate governance: board independence, CEO compensation, shareholder rights, and how to align manager and owner interests."
 permalink: /themes/11-corporate-governance/
 ---
 

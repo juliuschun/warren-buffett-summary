@@ -1,0 +1,68 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Warren Buffett's Lessons Explained
+
+> Every lesson from every Berkshire Hathaway shareholder letter (1977-2025), organized by year, theme, and case study. 1,091 lessons from 49 letters.
+
+This site is a structured, AI-friendly knowledge base of Warren Buffett's investment wisdom extracted from his annual shareholder letters to Berkshire Hathaway investors.
+
+## Content Structure
+
+### By Year (49 letters, 1977-2025)
+Chronological lessons from each annual shareholder letter. Each year contains 15-30 actionable business and investing lessons with context, analysis, and application guidance.
+
+{% for year in (1977..2025) %}- [{{ year }} Lessons]({{ site.url }}{{ site.baseurl }}/lessons/lessons-{{ year }}/)
+{% endfor %}
+
+### By Theme (16 deep-dive analyses)
+Cross-letter thematic analyses tracing how Buffett's thinking evolved over 49 years.
+
+- [Competitive Moats & Durable Advantage]({{ site.url }}{{ site.baseurl }}/themes/01-competitive-moats/) — The single most important idea in Buffett's philosophy
+- [Management Quality]({{ site.url }}{{ site.baseurl }}/themes/02-management-quality/) — What makes great business leaders
+- [Capital Allocation]({{ site.url }}{{ site.baseurl }}/themes/03-capital-allocation/) — The CEO's most important job
+- [Industry Economics]({{ site.url }}{{ site.baseurl }}/themes/04-industry-economics/) — Why industry structure determines returns
+- [Pricing Power & Cost Discipline]({{ site.url }}{{ site.baseurl }}/themes/05-pricing-power/) — The capital-light business ideal
+- [Compounding]({{ site.url }}{{ site.baseurl }}/themes/06-compounding/) — Time as the friend of wonderful businesses
+- [Risk Management]({{ site.url }}{{ site.baseurl }}/themes/07-risk-management/) — Building the ark before the rain
+- [Insurance & Float]({{ site.url }}{{ site.baseurl }}/themes/08-insurance-float/) — Berkshire's secret weapon
+- [Acquisition Discipline]({{ site.url }}{{ site.baseurl }}/themes/09-acquisition-discipline/) — Wonderful companies at fair prices
+- [Honest Accounting]({{ site.url }}{{ site.baseurl }}/themes/10-honest-accounting/) — Financial transparency principles
+- [Corporate Governance]({{ site.url }}{{ site.baseurl }}/themes/11-corporate-governance/) — Aligning owner and manager interests
+- [Mistakes & Humility]({{ site.url }}{{ site.baseurl }}/themes/12-mistakes-humility/) — Learning from errors
+- [Institutional Imperative]({{ site.url }}{{ site.baseurl }}/themes/13-institutional-imperative/) — How organizations destroy rationality
+- [Valuation]({{ site.url }}{{ site.baseurl }}/themes/14-valuation/) — Intrinsic value and margin of safety
+- [American Optimism]({{ site.url }}{{ site.baseurl }}/themes/15-american-optimism/) — The long-term case for American business
+- [Meta-Lessons]({{ site.url }}{{ site.baseurl }}/themes/16-meta-lessons/) — Lessons about learning from Buffett
+
+### Evidence Base (7 reference files)
+Deep-dive reference files mapping specific Buffett insights to original letter sources with 151 source citations.
+
+- [Competitive Moats Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/01-competitive-moats/)
+- [Pricing Power & Brand Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/02-pricing-power-and-brand/)
+- [Cost Advantage & Scale Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/03-cost-advantage-and-scale/)
+- [Capital Allocation Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/04-capital-allocation/)
+- [Management Quality Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/05-management-quality/)
+- [Risk, Leverage & Survival Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/06-risk-leverage-survival/)
+- [Acquisition Discipline Evidence]({{ site.url }}{{ site.baseurl }}/business-reference/07-acquisition-discipline/)
+
+### Case Studies (3 worked examples)
+Real-world examples of how Buffett evaluated specific businesses.
+
+- [GEICO Case Study]({{ site.url }}{{ site.baseurl }}/case-studies/geico-evaluation/) — The perfect cost moat, 2% to 14% market share
+- [See's Candies Case Study]({{ site.url }}{{ site.baseurl }}/case-studies/sees-candies-evaluation/) — $32M invested, $1.35B returned
+- [Failed Acquisitions]({{ site.url }}{{ site.baseurl }}/case-studies/acquisition-evaluation-cases/) — What went wrong and lessons learned
+
+### Original Letters (49 full texts, 1977-2025)
+Complete unabridged shareholder letters converted from berkshirehathaway.com PDFs.
+
+{% for year in (1977..2025) %}- [{{ year }} Original Letter]({{ site.url }}{{ site.baseurl }}/letters/{{ year }}/)
+{% endfor %}
+
+## Key Topics Covered
+Warren Buffett, Berkshire Hathaway, shareholder letters, value investing, competitive moats, economic moats, pricing power, capital allocation, return on equity, insurance float, GEICO, See's Candies, compounding, risk management, acquisition discipline, intrinsic value, margin of safety, owner earnings, franchise business, corporate governance, institutional imperative, American capitalism
+
+## Source
+Original letters: [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/letters.html)
+Project: [eco-moat-ai on GitHub](https://github.com/juliuschun/eco-moat-ai)
