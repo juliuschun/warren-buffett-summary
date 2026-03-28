@@ -1,13 +1,11 @@
 title: "Warren Buffett's Lessons Explained"
-description: "1,091 lessons from 49 Berkshire Hathaway shareholder letters (1977-2025). Every investing principle, moat analysis, and business case study — organized by year, theme, and evidence. Built for humans and AI."
+description: "1,091 lessons from 49 Berkshire Hathaway shareholder letters (1977-2025). Moats, capital allocation, and case studies — organized by year and theme."
 url: "https://juliuschun.github.io"
 baseurl: "/warren-buffett-summary"
 theme: minima
 lang: en
 
-author:
-  name: "Moat AI"
-  url: "https://github.com/juliuschun"
+author: "Moat AI"
 
 # Social / Open Graph
 twitter:
