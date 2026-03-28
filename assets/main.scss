@@ -51,13 +51,20 @@ thead {
 }
 
 th {
-  background-color: #1a1a2e;
-  color: #ffffff;
+  background-color: #1a1a2e !important;
+  color: #ffffff !important;
   padding: 12px 16px;
   text-align: left;
   font-weight: 600;
   border-bottom: 2px solid #c9a84c;
   white-space: nowrap;
+}
+
+// Ensure th links are also white
+th a,
+th a:visited {
+  color: #ffffff !important;
+  border-bottom: none;
 }
 
 td {
